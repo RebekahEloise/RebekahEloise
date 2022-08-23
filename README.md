@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RebekahEloise
-- 👀 I’m interested in ... Web accessibility for persons with disabilities and visual impairments
-- 🌱 I’m currently learning ... Django/Python
-- 💞️ I’m looking to collaborate on ... I have lots of ideas, let's discuss some of them. Feel free to reach out to me.
+- 👀 I’m interested in ... Web accessibility for persons with disabilities and visual impairments, game development for visually impaired users.
+- 🌱 I’m currently learning ... refreshing my React.js skills
+- 💞️ I’m looking to collaborate on ... Accessibility features, and accessible games, voice controlled games etc...
 - 📫 How to reach me ...rebekaheloisemiller@gmail.com
 
 <!---
